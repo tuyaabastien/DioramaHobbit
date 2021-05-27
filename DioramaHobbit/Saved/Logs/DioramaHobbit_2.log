@@ -961,3 +961,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.27-12.59.55:158][757]LogContentValidation: Display: Validating Material /Game/Water/Terrain.Terrain
 [2021.05.27-12.59.55:158][757]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.05.27-12.59.55:158][757]LogContentValidation: Display: Validating StaticMesh /Game/Water/Terrain_v001.Terrain_v001
+[2021.05.27-13.01.46:971][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain_v001)
+[2021.05.27-13.01.51:241][ 71]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Water/Terrain_v001.Terrain_v001
+[2021.05.27-13.01.51:651][ 71]LogStaticMesh: Allocated 442x64x64 distance field atlas = 3.5Mb, with 34 objects containing 2.5Mb backing data
+[2021.05.27-13.01.51:675][ 72]LogRenderer: Reallocating scene render targets to support 1396x664 Format 10 NumSamples 1 (Frame:1).
+[2021.05.27-13.02.40:548][353]Cmd: TRANSACTION UNDO
+[2021.05.27-13.02.40:548][353]LogEditorTransaction: Undo Rotate Actors
+[2021.05.27-13.02.41:221][383]Cmd: TRANSACTION UNDO
+[2021.05.27-13.02.41:221][383]LogEditorTransaction: Undo Move Actors
+[2021.05.27-13.02.44:353][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain_v001)
+[2021.05.27-13.02.52:114][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane_water2)
+[2021.05.27-13.02.59:551][508]LogSlate: Window 'Terrain_v001' being destroyed
+[2021.05.27-13.02.59:555][508]LogSlate: Window 'Terrain_v001' being destroyed
+[2021.05.27-13.02.59:558][508]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-13.02.59:558][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.03.03:878][  8]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Water/M_Water_Inst.M_Water_Inst
+[2021.05.27-13.03.03:878][  8]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 3 classes and 0 folders.
+[2021.05.27-13.03.14:512][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Water/M_Water_Inst" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Water/M_Water_Inst.uasset" SILENT=true
+[2021.05.27-13.03.14:518][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.27-13.03.14:524][244]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-13.03.14:908][244]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.05.27-13.03.14:908][244]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.05.27-13.03.14:908][244]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.05.27-13.03.14:908][244]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.05.27-13.03.14:909][244]TextureStreamingBuild: Display: Compiling optional shaders took 0.389 seconds.
+[2021.05.27-13.03.14:916][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.27-13.03.14:921][244]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/M_Water_InstA1FCBC254A9EEEB09059639F7F0A78CB.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Water/M_Water_Inst.uasset'
+[2021.05.27-13.03.14:931][244]AssetCheck: New page: Asset Save: M_Water_Inst
+[2021.05.27-13.03.14:931][244]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Water/M_Water_Inst.M_Water_Inst
+[2021.05.27-13.04.00:995][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain_v001)
+[2021.05.27-13.05.08:599][644]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.27-13.05.39:687][343]LogSlate: Window 'Project Settings' being destroyed
+[2021.05.27-13.05.39:692][343]LogSlate: Window 'Project Settings' being destroyed
+[2021.05.27-13.05.44:324][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane_water2)
+[2021.05.27-13.06.03:090][106]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.27-13.06.14:295][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane_water2)
+[2021.05.27-13.07.16:454][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain_v001)
+[2021.05.27-13.09.54:916][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.27-13.09.54:925][ 30]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Minimal_Default_Auto26D6D5B0D43043D0F501030A6616C5B08.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2021.05.27-13.09.54:926][ 30]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.014
+[2021.05.27-13.09.54:926][ 30]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2021.05.27-13.09.54:926][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Water/M_Water_Inst] ([1] browsable assets)...
+[2021.05.27-13.09.54:935][ 30]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Water/M_Water_Inst.M_Water_Inst]
+[2021.05.27-13.09.54:935][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Water/M_Water_Inst]
+[2021.05.27-13.09.54:935][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Water/M_Water_Inst" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Autosaves/Game/Water/M_Water_Inst_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.05.27-13.09.54:939][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.05.27-13.09.54:939][ 30]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.27-13.09.55:381][ 30]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.05.27-13.09.55:381][ 30]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.05.27-13.09.55:381][ 30]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.05.27-13.09.55:381][ 30]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.05.27-13.09.55:385][ 30]TextureStreamingBuild: Display: Compiling optional shaders took 0.446 seconds.
+[2021.05.27-13.09.55:390][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.05.27-13.09.55:396][ 30]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/M_Water_Inst_Auto240BA8816488045FC21887D94E77FF48E.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Autosaves/Game/Water/M_Water_Inst_Auto2.uasset'
+[2021.05.27-13.09.55:396][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Water/Terrain_v001] ([1] browsable assets)...
+[2021.05.27-13.09.55:404][ 30]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Water/Terrain_v001.Terrain_v001]
+[2021.05.27-13.09.55:404][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Water/Terrain_v001]
+[2021.05.27-13.09.55:404][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Water/Terrain_v001" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Autosaves/Game/Water/Terrain_v001_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.05.27-13.09.55:427][ 30]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Terrain_v001_Auto2798B88904808CA8F8F304AB880D12C99.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Autosaves/Game/Water/Terrain_v001_Auto2.uasset'
+[2021.05.27-13.09.55:427][ 30]LogFileHelpers: Auto-saving content packages took 0.502
+[2021.05.27-13.46.21:475][431]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.27-13.46.23:101][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane_water2)
+[2021.05.27-13.46.23:989][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
