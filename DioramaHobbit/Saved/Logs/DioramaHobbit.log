@@ -2869,3 +2869,1592 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.03-17.11.08:348][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Pomme_lambert1_OcclusionRoughnessMetallic]
 [2021.06.03-17.11.08:354][500]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Pomme_lambert1_OcclusionRoughnes7BEA0B2140B94E46AFFBE78538061C4C.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Autosaves/Game/Textures/Pomme_lambert1_OcclusionRoughnessMetallic_Auto2.uasset'
 [2021.06.03-17.11.08:355][500]LogFileHelpers: Auto-saving content packages took 0.058
+[2021.06.03-17.15.48:998][178]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.06.03-17.15.49:567][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pomme)
+[2021.06.03-17.15.55:929][787]LogActorFactory: Actor Factory created Pomme
+[2021.06.03-17.15.59:350][855]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2021.06.03-17.15.59:383][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Foliage/Pomme_FoliageType" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Foliage/Pomme_FoliageType.uasset" SILENT=true
+[2021.06.03-17.15.59:387][855]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Pomme_FoliageType11D7254A4115F1304F94E1A20095A1AE.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Foliage/Pomme_FoliageType.uasset'
+[2021.06.03-17.15.59:395][855]AssetCheck: New page: Asset Save: Pomme_FoliageType
+[2021.06.03-17.15.59:395][855]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Foliage/Pomme_FoliageType.Pomme_FoliageType
+[2021.06.03-17.16.03:591][109]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Pomme.Pomme
+[2021.06.03-17.16.15:921][768]LogMaterial: Display: Material /Game/Materials/M_Pommes.M_Pommes needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.06.03-17.16.15:929][768]LogMaterial: Display: Material /Engine/Transient.PreviewMaterial_0 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.06.03-17.16.15:930][768]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.16.15:934][768]LogMaterial: Display: Missing cached shader map for material M_Pommes, compiling. 
+[2021.06.03-17.16.15:945][768]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.03-17.16.15:945][768]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.03-17.16.15:945][768]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.03-17.16.15:945][768]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.03-17.16.15:945][768]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.03-17.16.15:945][768]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.16.15:946][768]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.03-17.16.15:946][768]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.03-17.16.16:604][801]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.06.03-17.16.16:604][801]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.03-17.16.16:804][811]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.06.03-17.16.16:898][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.06.03-17.16.16:959][820]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.06.03-17.16.16:959][820]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.06.03-17.16.16:959][820]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.06.03-17.16.16:959][820]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.03-17.16.17:115][830]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.03-17.16.17:117][830]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.06.03-17.16.17:117][830]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.06.03-17.16.17:117][830]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.03-17.16.17:117][830]MaterialEditorStats: Texture samplers: 5/16
+[2021.06.03-17.16.17:117][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.06.03-17.16.17:117][830]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.03-17.16.17:704][859]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.06.03-17.16.17:904][869]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.16.18:127][878]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.06.03-17.16.18:193][880]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.06.03-17.16.18:311][887]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.06.03-17.16.19:947][983]Cmd: TRANSACTION UNDO
+[2021.06.03-17.16.19:947][983]LogEditorTransaction: Undo Foliage Editing
+[2021.06.03-17.16.20:021][983]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.16.20:034][983]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.03-17.16.20:035][983]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.03-17.16.20:035][983]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.03-17.16.20:035][983]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.03-17.16.20:035][983]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.03-17.16.20:035][983]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.16.20:035][983]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.03-17.16.20:035][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.03-17.16.20:036][983]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.03-17.16.20:038][983]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.03-17.16.20:041][983]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.03-17.16.20:512][993]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.06.03-17.16.20:535][994]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.06.03-17.16.20:689][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.03-17.16.20:757][  2]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.03-17.16.20:819][  4]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.06.03-17.16.20:821][  4]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.03-17.16.20:848][  5]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.03-17.16.20:867][  6]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.06.03-17.16.20:980][ 10]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.06.03-17.16.20:980][ 10]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.16.20:995][ 10]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.06.03-17.16.20:995][ 10]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.06.03-17.16.20:995][ 10]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.03-17.16.20:995][ 10]MaterialEditorStats: Texture samplers: 5/16
+[2021.06.03-17.16.20:995][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.06.03-17.16.20:995][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.03-17.16.21:255][ 19]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.03-17.16.21:324][ 21]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.03-17.16.21:326][ 21]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.06.03-17.16.30:791][531]Cmd: TRANSACTION UNDO
+[2021.06.03-17.16.30:791][531]LogEditorTransaction: Undo Foliage Editing
+[2021.06.03-17.16.30:864][531]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.16.30:872][531]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.03-17.16.30:872][531]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.03-17.16.30:872][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.03-17.16.30:872][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.03-17.16.30:872][531]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.03-17.16.30:872][531]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.16.30:872][531]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.03-17.16.30:872][531]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.03-17.16.30:877][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.03-17.16.30:880][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.03-17.16.30:883][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.03-17.16.31:376][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.06.03-17.16.31:376][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.06.03-17.16.31:562][546]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.03-17.16.31:606][547]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.03-17.16.31:673][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.06.03-17.16.31:673][549]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.06.03-17.16.31:677][549]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.06.03-17.16.31:705][550]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.06.03-17.16.31:832][554]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.06.03-17.16.31:833][554]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.16.31:857][554]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.06.03-17.16.31:857][554]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.06.03-17.16.31:857][554]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.03-17.16.31:857][554]MaterialEditorStats: Texture samplers: 5/16
+[2021.06.03-17.16.31:857][554]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.06.03-17.16.31:857][554]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.03-17.16.32:097][562]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.03-17.16.32:175][564]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.03-17.16.32:201][565]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.06.03-17.16.38:261][894]Cmd: TRANSACTION UNDO
+[2021.06.03-17.16.38:261][894]LogEditorTransaction: Undo Foliage Editing
+[2021.06.03-17.16.38:336][894]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.16.38:347][894]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.03-17.16.38:347][894]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.03-17.16.38:347][894]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.03-17.16.38:347][894]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.03-17.16.38:347][894]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.03-17.16.38:348][894]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.16.38:348][894]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.03-17.16.38:348][894]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.03-17.16.38:349][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.03-17.16.38:351][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.03-17.16.38:354][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.03-17.16.38:818][901]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.06.03-17.16.38:839][902]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.06.03-17.16.38:987][910]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.03-17.16.39:088][915]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.03-17.16.39:127][917]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.06.03-17.16.39:127][917]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.06.03-17.16.39:161][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.06.03-17.16.39:178][920]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.06.03-17.16.39:339][928]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.06.03-17.16.39:339][928]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.03-17.16.39:341][928]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.06.03-17.16.39:341][928]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.06.03-17.16.39:341][928]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.03-17.16.39:341][928]MaterialEditorStats: Texture samplers: 5/16
+[2021.06.03-17.16.39:341][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.06.03-17.16.39:341][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.03-17.16.39:560][937]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.03-17.16.39:624][940]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.06.03-17.16.39:643][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.06.03-17.17.10:557][866]Cmd: TRANSACTION UNDO
+[2021.06.03-17.17.10:557][866]LogEditorTransaction: Undo Foliage Editing
+[2021.06.03-17.17.10:619][866]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.17.10:626][866]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.03-17.17.10:626][866]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.03-17.17.10:626][866]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.03-17.17.10:627][866]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.03-17.17.10:627][866]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.03-17.17.10:627][866]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.17.10:627][866]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.03-17.17.10:627][866]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.03-17.17.10:633][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.03-17.17.10:635][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.03-17.17.10:638][866]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.03-17.17.11:062][874]Cmd: TRANSACTION UNDO
+[2021.06.03-17.17.11:062][874]LogEditorTransaction: Undo Foliage Editing
+[2021.06.03-17.17.11:166][874]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.17.11:187][874]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.03-17.17.11:191][874]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.03-17.17.11:195][874]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.03-17.17.11:226][874]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2021.06.03-17.17.11:226][874]Cmd: TRANSACTION UNDO
+[2021.06.03-17.17.11:226][874]LogEditorTransaction: Undo Foliage Editing
+[2021.06.03-17.17.11:291][874]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.06.03-17.17.11:343][874]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.17.11:364][874]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.06.03-17.17.11:364][874]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.03-17.17.11:368][874]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.03-17.17.11:371][874]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.03-17.17.11:479][874]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.06.03-17.17.11:479][874]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.06.03-17.17.11:479][874]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.06.03-17.17.11:571][874]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.06.03-17.17.11:571][874]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.06.03-17.17.11:576][875]Cmd: TRANSACTION UNDO
+[2021.06.03-17.17.11:576][875]LogEditorTransaction: Undo Foliage Editing
+[2021.06.03-17.17.11:690][875]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.17.11:717][875]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.03-17.17.11:721][875]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.03-17.17.11:725][875]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.03-17.17.11:792][875]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.03-17.17.11:875][876]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.06.03-17.17.11:951][877]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.06.03-17.17.11:987][878]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.03-17.17.12:122][881]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.06.03-17.17.12:210][885]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.06.03-17.17.12:327][891]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.03-17.17.12:370][893]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.03-17.17.12:495][899]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.06.03-17.17.12:537][901]Cmd: TRANSACTION UNDO
+[2021.06.03-17.17.12:537][901]LogEditorTransaction: Undo Foliage Editing
+[2021.06.03-17.17.12:611][901]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.06.03-17.17.12:665][901]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.06.03-17.17.12:666][901]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.17.12:690][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.03-17.17.12:695][901]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.06.03-17.17.12:695][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.03-17.17.12:699][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.03-17.17.12:838][902]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.06.03-17.17.12:904][905]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.03-17.17.12:923][906]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.06.03-17.17.12:999][910]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.06.03-17.17.13:057][913]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.06.03-17.17.13:077][914]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.06.03-17.17.13:197][920]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.06.03-17.17.13:526][937]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.06.03-17.17.13:601][941]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.06.03-17.17.13:601][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.03-17.17.13:620][942]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.06.03-17.17.13:794][951]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.06.03-17.17.13:919][957]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.03-17.17.13:920][957]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.06.03-17.17.14:017][962]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.06.03-17.17.14:017][962]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.06.03-17.17.14:046][963]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.06.03-17.17.14:046][963]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.06.03-17.17.14:046][963]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.03-17.17.14:046][963]MaterialEditorStats: Texture samplers: 5/16
+[2021.06.03-17.17.14:046][963]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.06.03-17.17.14:046][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.03-17.17.14:104][965]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.06.03-17.17.14:186][969]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.03-17.17.14:207][970]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.06.03-17.17.14:272][973]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.06.03-17.17.22:372][386]Cmd: TRANSACTION UNDO
+[2021.06.03-17.17.22:372][386]LogEditorTransaction: Undo Foliage Editing
+[2021.06.03-17.17.22:447][386]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.17.22:458][386]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.03-17.17.22:458][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.03-17.17.22:458][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.03-17.17.22:458][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.03-17.17.22:458][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.03-17.17.22:458][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.17.22:458][386]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.03-17.17.22:458][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.03-17.17.22:465][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.03-17.17.22:469][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.03-17.17.22:472][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.03-17.17.22:959][395]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.06.03-17.17.22:959][395]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.06.03-17.17.23:124][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.03-17.17.23:172][402]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.03-17.17.23:230][404]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.06.03-17.17.23:238][404]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.03-17.17.23:258][405]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.06.03-17.17.23:283][406]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.06.03-17.17.23:409][410]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.06.03-17.17.23:409][410]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.17.23:429][410]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.06.03-17.17.23:429][410]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.06.03-17.17.23:429][410]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.03-17.17.23:429][410]MaterialEditorStats: Texture samplers: 5/16
+[2021.06.03-17.17.23:429][410]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.06.03-17.17.23:429][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.03-17.17.23:678][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.03-17.17.23:700][419]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.06.03-17.17.23:737][420]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.06.03-17.18.25:213][597]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.06.03-17.18.39:406][ 62]LogSlate: Window 'Save Asset As' being destroyed
+[2021.06.03-17.18.44:583][366]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_sequence/Level_sequence_1.Level_sequence_1
+[2021.06.03-17.18.56:770][914]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.03-17.19.01:912][ 75]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.03-17.19.32:434][219]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2021.06.03-17.20.02:195][487]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2021.06.03-17.20.02:360][487]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.06.03-17.20.12:433][826]LogSlate: Window 'Message' being destroyed
+[2021.06.03-17.20.12:439][826]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/M_Pommes.M_Pommes
+(Selecting 'No' will cause all changes to be lost!)
+[2021.06.03-17.20.12:864][826]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.03-17.20.12:894][826]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.03-17.20.12:894][826]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.03-17.20.12:894][826]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.03-17.20.12:894][826]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.03-17.20.12:894][826]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.03-17.20.12:894][826]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.03-17.20.12:894][826]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.03-17.20.12:894][826]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.03-17.20.12:901][826]LogMaterial: Display: Missing cached shader map for material M_Pommes, compiling. 
+[2021.06.03-17.20.12:957][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.06.03-17.20.12:965][826]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.03-17.20.13:530][826]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.06.03-17.20.13:530][826]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.06.03-17.20.13:860][826]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.03-17.20.13:860][826]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.06.03-17.20.13:860][826]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.06.03-17.20.13:860][826]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.06.03-17.20.13:860][826]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.06.03-17.20.13:860][826]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.06.03-17.20.13:861][826]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.03-17.20.13:861][826]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.03-17.20.13:861][826]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.03-17.20.13:864][826]TextureStreamingBuild: Display: Compiling optional shaders took 0.905 seconds.
+[2021.06.03-17.20.13:891][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.06.03-17.20.13:942][826]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.06.03-17.20.13:945][826]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.06.03-17.20.13:970][826]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-17.20.13:971][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-17.20.14:006][826]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-17.20.14:006][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-17.20.14:077][826]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-17.20.14:077][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-17.20.14:246][830]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.06.03-17.20.14:481][831]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.06.03-17.20.14:621][832]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.06.03-17.20.14:653][833]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.06.03-17.20.14:849][836]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.03-17.20.17:078][912]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.03-17.20.58:235][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.06.03-17.21.00:698][329]LogSlate: Window 'Save Content' being destroyed
+[2021.06.03-17.21.00:729][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_sequence/Level_sequence_1" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset" SILENT=true
+[2021.06.03-17.21.00:732][329]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Level_sequence_173966D4642811A17DE10F2A27BC68386.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset'
+[2021.06.03-17.21.00:748][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Pommes" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Materials/M_Pommes.uasset" SILENT=true
+[2021.06.03-17.21.00:753][329]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/M_Pommes0F3CFAC84640536C18083783ED5637BE.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Materials/M_Pommes.uasset'
+[2021.06.03-17.21.00:794][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.06.03-17.21.00:848][329]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Minimal_Default334EA92E421EE8EA13BE44A0BE9020CB.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.03-17.21.00:854][329]LogFileHelpers: Saving map 'Minimal_Default' took 0.100
+[2021.06.03-17.21.00:866][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Pomme" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Meshes/Pomme.uasset" SILENT=true
+[2021.06.03-17.21.00:871][329]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Pomme7531DA0D4BBEAA10EB934992B3E94F44.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Meshes/Pomme.uasset'
+[2021.06.03-17.21.00:883][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Foliage/Pomme_FoliageType" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Foliage/Pomme_FoliageType.uasset" SILENT=true
+[2021.06.03-17.21.00:887][329]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Pomme_FoliageType822A1A9F4CDA2DAB8FB3E1A13EAF12F8.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Foliage/Pomme_FoliageType.uasset'
+[2021.06.03-17.21.00:887][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Pomme_lambert1_BaseColor" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Textures/Pomme_lambert1_BaseColor.uasset" SILENT=true
+[2021.06.03-17.21.01:026][329]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Pomme_lambert1_BaseColorF853F9DA425FACDC3A99E8BBD5364CAF.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Textures/Pomme_lambert1_BaseColor.uasset'
+[2021.06.03-17.21.01:027][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Pomme_lambert1_Normal" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Textures/Pomme_lambert1_Normal.uasset" SILENT=true
+[2021.06.03-17.21.01:073][329]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Pomme_lambert1_NormalECB9F58E45F7F855304FA9A0B8302E31.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Textures/Pomme_lambert1_Normal.uasset'
+[2021.06.03-17.21.01:121][329]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Pomme_lambert1_OcclusionRoughnesC50E67E547066A6EA8BD6885D3A58903.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Textures/Pomme_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.06.03-17.21.01:134][329]LogTemp: Starting movie scene capture...
+[2021.06.03-17.21.01:148][329]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.03-17.21.01:148][329]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.03-17.21.01:148][329]LogContentValidation: Display: Validating Texture2D /Game/Textures/Pomme_lambert1_Normal.Pomme_lambert1_Normal
+[2021.06.03-17.21.01:148][329]LogContentValidation: Display: Validating Texture2D /Game/Textures/Pomme_lambert1_BaseColor.Pomme_lambert1_BaseColor
+[2021.06.03-17.21.01:148][329]LogContentValidation: Display: Validating LevelSequence /Game/Level_sequence/Level_sequence_1.Level_sequence_1
+[2021.06.03-17.21.01:148][329]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Pomme.Pomme
+[2021.06.03-17.21.01:148][329]LogContentValidation: Display: Validating Material /Game/Materials/M_Pommes.M_Pommes
+[2021.06.03-17.21.01:148][329]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Foliage/Pomme_FoliageType.Pomme_FoliageType
+[2021.06.03-17.21.01:148][329]LogContentValidation: Display: Validating Texture2D /Game/Textures/Pomme_lambert1_OcclusionRoughnessMetallic.Pomme_lambert1_OcclusionRoughnessMetallic
+[2021.06.03-17.21.01:157][329]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.03-17.21.01:158][329]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2021.06.03-17.21.01:185][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.06.03-17.21.01:189][329]LogPlayLevel: PlayLevel: Blueprint regeneration took 31 ms (1 blueprints)
+[2021.06.03-17.21.01:190][329]PIE: New page: PIE session: Minimal_Default (3 juin 2021 à 21:21:01)
+[2021.06.03-17.21.01:192][329]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.03-17.21.01:193][329]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.03-17.21.01:194][329]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.03-17.21.01:209][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015645s)
+[2021.06.03-17.21.01:211][329]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.03-17.21.01:212][329]LogPlayLevel: PIE: World Init took: (0.002167s)
+[2021.06.03-17.21.01:212][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017974s)
+[2021.06.03-17.21.01:225][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.06.03-17.21.01:228][329]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.03-17.21.01:228][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.03-17.21.01:229][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.03-17.21.01:229][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.03-17.21.01:229][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.03-17.21.01:229][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.03-17.21.01:229][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.03-17.21.01:229][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.03-17.21.01:229][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.03-17.21.01:229][329]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.03-17.21.01:229][329]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.03-17.21.01:232][329]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.03-17.21.01:232][329]LogAudioMixer: Display: 1: FrontRight
+[2021.06.03-17.21.01:241][329]LogAudioMixer: Display: Using Audio Device LG FULL HD (NVIDIA High Definition Audio)
+[2021.06.03-17.21.01:241][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.03-17.21.01:241][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.03-17.21.01:241][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.03-17.21.01:242][329]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.03-17.21.01:242][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.03-17.21.01:242][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.03-17.21.01:242][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.03-17.21.01:242][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.03-17.21.01:242][329]LogInit: FAudioDevice initialized.
+[2021.06.03-17.21.01:242][329]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2021.06.03-17.21.01:244][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.21.01:281][329]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.06.03-17.21.01:281][329]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.06.03-17.21.01:281][329]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.06.03-17.21.01:281][329]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.03-17.21.01:282][329]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.06.03-17.21.01:282][329]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.03-17.21.01:282][329]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.06.03-17.21.01:282][329]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:4]]
+[2021.06.03-17.21.01:283][329]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.06.03-17.21.01:283][329]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.06.03-17.21.01:287][329]LogLoad: Game class is 'GameModeBase'
+[2021.06.03-17.21.01:291][329]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.03-19.21.01
+[2021.06.03-17.21.01:292][329]LogWorld: Bringing up level for play took: 0.004238
+[2021.06.03-17.21.01:293][329]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.06.03-17.21.01:297][329]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.03-17.21.01:304][329]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.06.03-17.21.01:319][329]PIE: Server logged in
+[2021.06.03-17.21.01:320][329]PIE: Play in editor total start time 0,166 seconds.
+[2021.06.03-17.21.01:684][330]LogRenderer: Reallocating scene render targets to support 1396x664 Format 10 NumSamples 1 (Frame:263294).
+[2021.06.03-17.21.02:331][332]LogRenderer: Reallocating scene render targets to support 1396x720 Format 10 NumSamples 1 (Frame:1).
+[2021.06.03-17.21.07:671][484]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.03-17.21.07:671][484]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.03-17.21.07:671][484]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.03-17.21.07:671][484]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.03-17.21.07:672][484]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.03-17.21.07:672][484]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.03-17.21.07:672][484]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.06.03-17.21.07:674][484]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:674][484]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.03-17.21.07:674][484]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.03-17.21.07:674][484]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:674][484]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.03-17.21.07:674][484]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.03-17.21.07:674][484]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.03-17.21.07:884][484]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.03-17.21.07:884][484]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.03-17.21.07:884][484]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.03-17.21.07:884][484]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.03-17.21.07:884][484]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.03-17.21.07:885][484]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '1000'
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.06.03-17.21.07:885][484]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.03-17.21.07:885][484]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.03-17.21.07:885][484]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.03-17.21.07:994][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.21.07:994][484]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.03-17.21.07:994][484]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2021.06.03-17.21.08:001][484]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-17.21.08:001][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-17.21.08:003][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.03-17.21.08:039][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-17.21.08:052][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.03-17.21.08:053][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.03-17.21.08:105][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.06.03-17.21.08:149][484]LogTemp: Movie Capture finished. Success: 1
+[2021.06.03-17.21.08:178][486]LogRenderer: Reallocating scene render targets to support 1396x720 Format 10 NumSamples 1 (Frame:263452).
+[2021.06.03-17.21.08:222][490]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.06.03-17.21.24:372][770]LogSlate: Window 'Render Movie Settings' being destroyed
+[2021.06.03-17.23.00:157][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.23.00:161][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.23.00:169][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.23.00:174][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.23.10:707][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.23.10:711][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.23.10:715][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.23.10:719][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-17.23.14:011][503]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.06.03-17.23.42:506][811]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.03-17.23.46:059][183]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2021.06.03-17.23.50:981][336]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.03-17.24.30:734][914]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.03-17.25.49:090][689]LogSlate: Window 'Render Movie Settings' being destroyed
+[2021.06.03-17.27.25:620][361]Cmd: TRANSACTION UNDO
+[2021.06.03-17.27.25:620][361]LogEditorTransaction: Undo Move Keys or Sections
+[2021.06.03-17.30.33:571][678]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '  (U+202f)'
+[2021.06.03-17.30.33:582][678]LogSlate: Took 0.010068 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.06.03-17.31.30:401][981]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.31.42:164][943]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.31.49:480][613]Cmd: TRANSACTION UNDO
+[2021.06.03-17.31.49:480][613]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.31.49:699][620]Cmd: TRANSACTION UNDO
+[2021.06.03-17.31.49:699][620]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.31.49:901][625]Cmd: TRANSACTION UNDO
+[2021.06.03-17.31.49:901][625]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.32.17:380][212]LogEditorTransaction: Undo Move Keys
+[2021.06.03-17.32.20:788][493]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.32.26:553][970]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.33.19:006][152]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.33.49:277][ 96]Cmd: TRANSACTION UNDO
+[2021.06.03-17.33.49:277][ 96]LogEditorTransaction: Undo Move Keys
+[2021.06.03-17.35.34:125][979]Cmd: TRANSACTION UNDO
+[2021.06.03-17.35.34:125][979]LogEditorTransaction: Undo Move Keys or Sections
+[2021.06.03-17.36.16:332][392]Cmd: TRANSACTION UNDO
+[2021.06.03-17.36.16:332][392]LogEditorTransaction: Undo Possess Object in Sequencer
+[2021.06.03-17.36.16:728][400]Cmd: TRANSACTION UNDO
+[2021.06.03-17.36.16:728][400]LogEditorTransaction: Undo Drag Entry Tangent
+[2021.06.03-17.36.17:052][416]Cmd: TRANSACTION UNDO
+[2021.06.03-17.36.17:052][416]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.36.35:970][475]Cmd: TRANSACTION UNDO
+[2021.06.03-17.36.35:970][475]LogEditorTransaction: Undo Move Key
+[2021.06.03-17.36.39:201][769]Cmd: TRANSACTION UNDO
+[2021.06.03-17.36.39:201][769]LogEditorTransaction: Undo Move Keys or Sections
+[2021.06.03-17.37.43:677][562]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2021.06.03-17.38.15:865][248]Cmd: TRANSACTION UNDO
+[2021.06.03-17.38.15:865][248]LogEditorTransaction: Undo Pilot Actor
+[2021.06.03-17.39.08:741][880]Cmd: TRANSACTION UNDO
+[2021.06.03-17.39.08:741][880]LogEditorTransaction: Undo Add Keys at Current Time
+[2021.06.03-17.39.28:695][181]Cmd: TRANSACTION UNDO
+[2021.06.03-17.39.28:695][181]LogEditorTransaction: Undo Delete Keys
+[2021.06.03-17.41.18:420][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.06.03-17.41.18:477][985]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Minimal_Default_Auto3A9F6A47A4DDC6EEBAD7FD3BF4502153B.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2021.06.03-17.41.18:478][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.152
+[2021.06.03-17.41.18:478][985]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.152
+[2021.06.03-17.41.18:478][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_sequence/Level_sequence_1] ([1] browsable assets)...
+[2021.06.03-17.41.18:478][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_sequence/Level_sequence_1]
+[2021.06.03-17.41.18:481][985]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Level_sequence_1_Auto38B7A77274253F69D017CBBA24A550336.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Autosaves/Game/Level_sequence/Level_sequence_1_Auto3.uasset'
+[2021.06.03-17.41.18:481][985]LogFileHelpers: Auto-saving content packages took 0.003
+[2021.06.03-17.43.25:150][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.06.03-17.43.25:182][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.06.03-17.43.25:236][976]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Minimal_Default19F871724AD012540FD978952D65119B.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.03-17.43.25:241][976]LogFileHelpers: Saving map 'Minimal_Default' took 0.071
+[2021.06.03-17.43.25:241][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_sequence/Level_sequence_1" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset" SILENT=true
+[2021.06.03-17.43.25:244][976]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Level_sequence_19D8AA5A34EE210ED6B7167A45C2ECAB3.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset'
+[2021.06.03-17.43.25:254][976]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.03-17.43.25:254][976]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.03-17.43.25:254][976]LogContentValidation: Display: Validating LevelSequence /Game/Level_sequence/Level_sequence_1.Level_sequence_1
+[2021.06.03-17.43.29:769][496]Cmd: TRANSACTION UNDO
+[2021.06.03-17.43.29:769][496]LogEditorTransaction: Undo Move Keys or Sections
+[2021.06.03-17.47.32:951][369]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.03-17.47.34:538][448]LogRenderer: Reallocating scene render targets to support 1772x916 Format 10 NumSamples 1 (Frame:409513).
+[2021.06.03-17.47.34:672][449]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:409515).
+[2021.06.03-17.59.30:297][382]Cmd: TRANSACTION UNDO
+[2021.06.03-17.59.30:297][382]LogEditorTransaction: Undo Move Keys or Sections
+[2021.06.03-17.59.53:521][ 68]Cmd: TRANSACTION UNDO
+[2021.06.03-17.59.53:521][ 68]LogEditorTransaction: Undo Move Keys or Sections
+[2021.06.03-18.00.27:562][959]Cmd: TRANSACTION UNDO
+[2021.06.03-18.00.27:562][959]LogEditorTransaction: Undo Delete Keys
+[2021.06.03-18.00.33:381][604]Cmd: TRANSACTION UNDO
+[2021.06.03-18.00.33:381][604]LogEditorTransaction: Undo Move Key
+[2021.06.03-18.00.33:838][617]Cmd: TRANSACTION UNDO
+[2021.06.03-18.00.33:839][617]LogEditorTransaction: Undo Move Key
+[2021.06.03-18.01.04:114][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.06.03-18.01.04:150][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.06.03-18.01.04:205][828]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Minimal_DefaultF1A0954D42DE85DA6126C29F4AB383B4.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.03-18.01.04:210][828]LogFileHelpers: Saving map 'Minimal_Default' took 0.073
+[2021.06.03-18.01.04:210][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_sequence/Level_sequence_1" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset" SILENT=true
+[2021.06.03-18.01.04:213][828]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Level_sequence_1C515F6774A51D07307B0AAA1A4F63F09.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset'
+[2021.06.03-18.01.04:223][828]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.03-18.01.04:223][828]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.03-18.01.04:223][828]LogContentValidation: Display: Validating LevelSequence /Game/Level_sequence/Level_sequence_1.Level_sequence_1
+[2021.06.03-18.01.10:486][504]LogSlate: Window 'Sequencer Curves' being destroyed
+[2021.06.03-18.01.17:856][  5]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.03-18.01.20:546][113]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.03-18.01.21:563][165]Cmd: SELECT NONE
+[2021.06.03-18.02.07:022][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (terrain2)
+[2021.06.03-18.02.08:044][650]Cmd: SELECT NONE
+[2021.06.03-18.02.08:745][684]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.03-18.02.09:474][713]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.03-18.02.13:427][897]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.06.03-18.03.22:390][401]Cmd: TRANSACTION UNDO
+[2021.06.03-18.03.22:390][401]LogEditorTransaction: Undo Delete Keys
+[2021.06.03-18.07.50:192][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.06.03-18.07.50:204][963]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.03-18.07.50:216][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.06.03-18.07.50:271][963]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Minimal_Default6925C6DC471F4510C3F579AC59AC22D3.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.03-18.07.50:276][963]LogFileHelpers: Saving map 'Minimal_Default' took 0.072
+[2021.06.03-18.07.50:276][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_sequence/Level_sequence_1" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset" SILENT=true
+[2021.06.03-18.07.50:278][963]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Level_sequence_1F5E2C482438885A07421A396F6E9DDD2.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset'
+[2021.06.03-18.07.50:286][963]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.03-18.07.50:286][963]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.03-18.07.50:286][963]LogContentValidation: Display: Validating LevelSequence /Game/Level_sequence/Level_sequence_1.Level_sequence_1
+[2021.06.03-18.07.56:852][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.06.03-18.10.25:546][156]LogEditorTransaction: Undo Drag Exit Tangent
+[2021.06.03-18.13.04:310][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.06.03-18.13.04:344][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_sequence/Level_sequence_1" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset" SILENT=true
+[2021.06.03-18.13.04:346][546]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Level_sequence_13014EE524F440CDD5E251093DA56232A.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset'
+[2021.06.03-18.13.04:354][546]AssetCheck: New page: Asset Save: Level_sequence_1
+[2021.06.03-18.13.04:354][546]LogContentValidation: Display: Validating LevelSequence /Game/Level_sequence/Level_sequence_1.Level_sequence_1
+[2021.06.03-18.13.16:462][271]LogSlate: Window 'Sequencer Curves' being destroyed
+[2021.06.03-18.14.16:949][231]LogSlate: Window 'Sequencer Curves' being destroyed
+[2021.06.03-18.14.16:954][231]LogSlate: Window 'Sequencer Curves' being destroyed
+[2021.06.03-18.14.49:910][338]LogSlate: Window 'Levels' being destroyed
+[2021.06.03-18.14.52:912][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bastien" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Levels/Bastien.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.03-18.14.52:925][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.06.03-18.14.52:933][634]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Bastien1C8AB4724370EDD9CCBB208C49D106DA.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Levels/Bastien.umap'
+[2021.06.03-18.14.52:970][634]AssetCheck: New page: Asset Save: Bastien
+[2021.06.03-18.14.52:970][634]LogContentValidation: Display: Validating World /Game/Levels/Bastien.Bastien
+[2021.06.03-18.14.56:279][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Enzo" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Levels/Enzo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.03-18.14.56:290][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.03-18.14.56:292][954]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/EnzoF11370DE45E232D747F057B6187B591A.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Levels/Enzo.umap'
+[2021.06.03-18.14.56:321][954]AssetCheck: New page: Asset Save: Enzo
+[2021.06.03-18.14.56:321][954]LogContentValidation: Display: Validating World /Game/Levels/Enzo.Enzo
+[2021.06.03-18.15.03:149][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.06.03-18.15.03:205][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.06.03-18.15.03:260][312]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Minimal_Default6F297B8E435B91359A0EE29706CCE18A.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.03-18.15.03:264][312]LogFileHelpers: Saving map 'Minimal_Default' took 0.071
+[2021.06.03-18.15.03:265][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bastien" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Levels/Bastien.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.03-18.15.03:277][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.06.03-18.15.03:279][312]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Bastien6514B80A476A05E438D2A8B45CF6CC2C.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Levels/Bastien.umap'
+[2021.06.03-18.15.03:280][312]LogFileHelpers: Saving map 'Bastien' took 0.015
+[2021.06.03-18.15.03:280][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Enzo" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Levels/Enzo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.03-18.15.03:292][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.06.03-18.15.03:294][312]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Enzo7A6BCF7B401EE5519A28EF8EA4AB6276.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Levels/Enzo.umap'
+[2021.06.03-18.15.03:295][312]LogFileHelpers: Saving map 'Enzo' took 0.014
+[2021.06.03-18.15.03:295][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_sequence/Level_sequence_1" FILE="D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset" SILENT=true
+[2021.06.03-18.15.03:297][312]LogSavePackage: Moving 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Level_sequence_16BAD31694883EA077F89F8A3E791EC79.tmp' to 'D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Content/Level_sequence/Level_sequence_1.uasset'
+[2021.06.03-18.15.03:308][312]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.03-18.15.03:308][312]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.03-18.15.03:308][312]LogContentValidation: Display: Validating World /Game/Levels/Bastien.Bastien
+[2021.06.03-18.15.03:308][312]LogContentValidation: Display: Validating World /Game/Levels/Enzo.Enzo
+[2021.06.03-18.15.03:308][312]LogContentValidation: Display: Validating LevelSequence /Game/Level_sequence/Level_sequence_1.Level_sequence_1
+[2021.06.03-18.15.16:670][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.06.03-18.15.16:672][129]LogTemp: Starting movie scene capture...
+[2021.06.03-18.15.16:679][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.03-18.15.16:679][129]PIE: New page: PIE session: Minimal_Default (3 juin 2021 à 22:15:16)
+[2021.06.03-18.15.16:679][129]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.03-18.15.16:695][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016212s)
+[2021.06.03-18.15.16:696][129]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.03-18.15.16:697][129]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2021.06.03-18.15.16:697][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017726s)
+[2021.06.03-18.15.16:710][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.06.03-18.15.16:710][129]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.03-18.15.16:710][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.03-18.15.16:710][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.03-18.15.16:710][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.03-18.15.16:710][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.03-18.15.16:711][129]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.03-18.15.16:711][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.03-18.15.16:711][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.03-18.15.16:711][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.03-18.15.16:711][129]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.03-18.15.16:711][129]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.03-18.15.16:714][129]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.03-18.15.16:714][129]LogAudioMixer: Display: 1: FrontRight
+[2021.06.03-18.15.16:724][129]LogAudioMixer: Display: Using Audio Device LG FULL HD (NVIDIA High Definition Audio)
+[2021.06.03-18.15.16:724][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.03-18.15.16:724][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.03-18.15.16:724][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.03-18.15.16:724][129]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.03-18.15.16:724][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.03-18.15.16:724][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.03-18.15.16:736][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.03-18.15.16:736][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.03-18.15.16:736][129]LogInit: FAudioDevice initialized.
+[2021.06.03-18.15.16:736][129]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2021.06.03-18.15.16:736][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-18.15.16:778][129]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.06.03-18.15.16:778][129]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.06.03-18.15.16:778][129]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.03-18.15.16:778][129]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.03-18.15.16:779][129]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.06.03-18.15.16:779][129]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.03-18.15.16:779][129]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.03-18.15.16:779][129]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:4]]
+[2021.06.03-18.15.16:780][129]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.06.03-18.15.16:780][129]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.06.03-18.15.16:783][129]LogLoad: Game class is 'GameModeBase'
+[2021.06.03-18.15.16:786][129]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.03-20.15.16
+[2021.06.03-18.15.16:787][129]LogWorld: Bringing up level for play took: 0.003126
+[2021.06.03-18.15.16:787][129]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.06.03-18.15.16:788][129]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.03-18.15.16:795][129]PIE: Server logged in
+[2021.06.03-18.15.16:797][129]PIE: Play in editor total start time 0,119 seconds.
+[2021.06.03-18.15.16:875][130]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:581292).
+[2021.06.03-18.15.44:824][459]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.03-18.15.44:824][459]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.03-18.15.44:824][459]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.03-18.15.44:824][459]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.03-18.15.44:825][459]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.03-18.15.44:825][459]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.03-18.15.44:825][459]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.06.03-18.15.44:826][459]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.03-18.15.44:826][459]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.03-18.15.44:826][459]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.03-18.15.44:826][459]LogTemp: Warning: FApp::CurrentTime() is ahead of platform time due to Fixed Timestep. Fixing. AppCurrentTime: 16815600.241861 PlatformCurrentTime: 16815584.077554
+[2021.06.03-18.15.45:080][459]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.45:080][459]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.03-18.15.45:080][459]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.03-18.15.45:080][459]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.45:080][459]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.03-18.15.45:080][459]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.45:080][459]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.03-18.15.45:080][459]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.03-18.15.45:080][459]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.03-18.15.45:080][459]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.03-18.15.45:080][459]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.03-18.15.45:081][459]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.03-18.15.45:081][459]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '1000'
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.03-18.15.45:081][459]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.03-18.15.45:081][459]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.06.03-18.15.45:082][459]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.03-18.15.45:082][459]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.03-18.15.45:082][459]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.03-18.15.45:117][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-18.15.45:117][459]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.03-18.15.45:117][459]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2021.06.03-18.15.45:124][459]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-18.15.45:124][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-18.15.45:125][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.03-18.15.45:163][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-18.15.45:175][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.03-18.15.45:176][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.03-18.15.45:176][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.03-18.15.45:194][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.06.03-18.15.45:237][459]LogTemp: Movie Capture finished. Success: 1
+[2021.06.03-18.15.45:257][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.06.03-18.15.45:276][461]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:582619).
+[2021.06.03-18.15.45:327][464]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.06.03-18.16.42:549][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.06.03-18.16.42:552][355]LogTemp: Starting movie scene capture...
+[2021.06.03-18.16.42:560][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.03-18.16.42:560][355]PIE: New page: PIE session: Minimal_Default (3 juin 2021 à 22:16:42)
+[2021.06.03-18.16.42:560][355]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.03-18.16.42:575][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014489s)
+[2021.06.03-18.16.42:576][355]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.03-18.16.42:576][355]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2021.06.03-18.16.42:576][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015607s)
+[2021.06.03-18.16.42:588][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.06.03-18.16.42:588][355]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.03-18.16.42:588][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.03-18.16.42:588][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.03-18.16.42:588][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.03-18.16.42:588][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.03-18.16.42:588][355]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.03-18.16.42:588][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.03-18.16.42:588][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.03-18.16.42:588][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.03-18.16.42:589][355]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.03-18.16.42:589][355]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.03-18.16.42:592][355]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.03-18.16.42:592][355]LogAudioMixer: Display: 1: FrontRight
+[2021.06.03-18.16.42:600][355]LogAudioMixer: Display: Using Audio Device LG FULL HD (NVIDIA High Definition Audio)
+[2021.06.03-18.16.42:601][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.03-18.16.42:601][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.03-18.16.42:601][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.03-18.16.42:601][355]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.03-18.16.42:601][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.03-18.16.42:601][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.03-18.16.42:613][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.03-18.16.42:613][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.03-18.16.42:613][355]LogInit: FAudioDevice initialized.
+[2021.06.03-18.16.42:613][355]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2021.06.03-18.16.42:614][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-18.16.42:658][355]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.06.03-18.16.42:658][355]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.06.03-18.16.42:658][355]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.03-18.16.42:658][355]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.03-18.16.42:658][355]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.03-18.16.42:659][355]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.06.03-18.16.42:659][355]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.06.03-18.16.42:659][355]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:4]]
+[2021.06.03-18.16.42:660][355]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.06.03-18.16.42:660][355]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.06.03-18.16.42:662][355]LogLoad: Game class is 'GameModeBase'
+[2021.06.03-18.16.42:666][355]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.03-20.16.42
+[2021.06.03-18.16.42:666][355]LogWorld: Bringing up level for play took: 0.002989
+[2021.06.03-18.16.42:666][355]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.06.03-18.16.42:668][355]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.03-18.16.42:674][355]PIE: Server logged in
+[2021.06.03-18.16.42:676][355]PIE: Play in editor total start time 0,118 seconds.
+[2021.06.03-18.16.42:700][355]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.06.03-18.16.42:772][356]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:583248).
+[2021.06.03-18.18.55:205][685]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.03-18.18.55:205][685]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.03-18.18.55:205][685]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.03-18.18.55:205][685]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.03-18.18.55:206][685]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.03-18.18.55:206][685]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.06.03-18.18.55:206][685]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.03-18.18.55:206][685]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.03-18.18.55:206][685]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.03-18.18.55:481][685]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.03-18.18.55:481][685]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.03-18.18.55:481][685]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.03-18.18.55:481][685]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.03-18.18.55:481][685]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.03-18.18.55:482][685]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '1000'
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.06.03-18.18.55:482][685]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.03-18.18.55:482][685]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/DIMASE_Enzo/DioramaHobbit/DioramaHobbit/Saved/Config/Windows/Scalability.ini]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.03-18.18.55:482][685]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.03-18.18.55:517][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.03-18.18.55:517][685]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.03-18.18.55:517][685]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2021.06.03-18.18.55:524][685]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-18.18.55:525][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-18.18.55:526][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.03-18.18.55:570][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-18.18.55:584][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.03-18.18.55:585][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.03-18.18.55:603][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.06.03-18.18.55:648][685]LogTemp: Movie Capture finished. Success: 1
+[2021.06.03-18.18.55:667][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.06.03-18.18.55:671][686]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:584579).
+[2021.06.03-18.18.55:724][687]LogPlayLevel: Display: Destroying online subsystem :Context_24
